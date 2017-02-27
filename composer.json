@@ -1,0 +1,11 @@
+{
+    "name": "yankee/sfGuardPlusPlugin",
+    "type": "symfony1-plugin",
+    "description": "symfony 1.x plugin for authentification.",
+    "keywords": ["symfony", "authentiication", "restfull"],
+    "require": {
+        "composer/installers": "*",	
+		"propel/sf-propel-o-r-m-plugin": "*"
+    }
+   
+}
